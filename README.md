@@ -1,5 +1,8 @@
 # BuJo
 
+
+Checkout it out [here](bujo.herokuapp.com) !
+
 *A Productivity Tool Based on the Bullet Journal System*
 
 ![This is my image](./public/favicon.ico)
@@ -7,7 +10,6 @@
 Bujo is a Bullet Journal inspired Task Management System. When you complete Tasks - you will be able to see your BuJo avatar. BuJo's outfit changes color based on the tasks you complete.
 When you complete tasks, you can also refer to your insights page to learn more about how you are spending your time.
 
-Please checkout BuJo at bujo.herokuapp.com.
 
 ## Getting Started
 
