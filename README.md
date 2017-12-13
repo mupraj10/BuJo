@@ -1,7 +1,7 @@
 # BuJo
 
 
-Checkout it out [here](bujo.herokuapp.com) !
+Check it out [here](bujo.herokuapp.com) !
 
 *A Productivity Tool Based on the Bullet Journal System*
 
