@@ -11,7 +11,12 @@ Bujo is a Bullet Journal inspired Task Management System. When you complete Task
 When you complete tasks, you can also refer to your insights page to learn more about how you are spending your time.
 
 
-## Getting Started
+
+## Getting started on Contributing 
+- You will need `node >= 7.0.0`
+- Fork it and get it started with `npm install` and then `npm run start-dev`
+
+## Getting Started on the App
 
 Add a Category
 
@@ -40,3 +45,5 @@ Thanks for Reading
 
 * Please feel free to visit BuJo at one of the deployed links
 * Please look over our code, and feel free to use the code for your own projects.
+
+
